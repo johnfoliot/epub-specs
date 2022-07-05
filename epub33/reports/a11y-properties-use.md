@@ -39,6 +39,7 @@ Discovery properties are expressed in the
             <td>
             	<ul>
             		<li>House of Anansi Press/Groundwood Books</li>
+                    <li>Pearson</li>
             	</ul>
             </td>
         </tr>
@@ -47,6 +48,7 @@ Discovery properties are expressed in the
             <td>
             	<ul>
             		<li>House of Anansi Press/Groundwood Books</li>
+                    <li>Pearson</li>
             	</ul>
             </td>
         </tr>
@@ -55,6 +57,7 @@ Discovery properties are expressed in the
             <td>
             	<ul>
             		<li>House of Anansi Press/Groundwood Books</li>
+                    <li>Pearson</li>
             	</ul>
             </td>
         </tr>
@@ -63,6 +66,7 @@ Discovery properties are expressed in the
             <td>
             	<ul>
             		<li>House of Anansi Press/Groundwood Books</li>
+                    <li>Pearson</li>
             	</ul>
             </td>
         </tr>
@@ -71,6 +75,7 @@ Discovery properties are expressed in the
             <td>
             	<ul>
             		<li>House of Anansi Press/Groundwood Books</li>
+                    <li>Pearson</li>
             	</ul>
             </td>
         </tr>
@@ -101,6 +106,7 @@ and in the
             <td>
             	<ul>
             		<li>House of Anansi Press/Groundwood Books</li>
+                    <li>Pearson</li>
             	</ul>
             </td>
         </tr>
@@ -109,6 +115,7 @@ and in the
             <td>
             	<ul>
             		<li>House of Anansi Press/Groundwood Books</li>
+                    <li>Pearson</li>
             	</ul>
             </td>
         </tr>
